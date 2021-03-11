@@ -9,9 +9,9 @@ Conducted customer segmentation analysis based on Recency, Frequency and Monetar
 
 
 ### RFM is a methosd used for analyzing customer value
-  **1. Recency: How recently did the customer purchase?**
-    - The last time that a customer made a purchase
-    - A customer who has made a purchase recently is more likely to make a repeat purchase than a customer who hasn’t made a purchase in a long time
+**1. Recency: How recently did the customer purchase?**
+  - The last time that a customer made a purchase
+  - A customer who has made a purchase recently is more likely to make a repeat purchase than a customer who hasn’t made a purchase in a long time
 
 **2. Frequency: How often do they purchase?**
   -  How many times a customer has made a purchase within a given time frame
