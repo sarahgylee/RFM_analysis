@@ -7,7 +7,7 @@ Conducted customer segmentation analysis based on Recency, Frequency and Monetar
 - Churn Rate = (Number of churns during period) / (Number of customers at beginning of period)
 - Average Customer Lifespan = 1/(churn rate)
 
-### RFM is a methosd used for analyzing customer value
+**RFM is a methosd used for analyzing customer value**
 
 **1. Recency: How recently did the customer purchase?**
   - The last time that a customer made a purchase
