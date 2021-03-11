@@ -18,6 +18,3 @@
 **3. Monetary: How much do they spend?**
 > - the amount of money a customer has spent within that same time frame
 > - A customer who makes larger purchases is more likely to return than a customer who spends less
-
-Therefore, by segmenting your customers with RFM, you’ll be able to analyze each group individually and determine which set of customers has the highest customer lifetime value (CLV)
-  - The lifetime value of a customer, or customer lifetime value (CLV), represents the total amount of money a customer is expected to spend in your business, or on your products, during their lifetime
