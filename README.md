@@ -18,3 +18,11 @@
 **3. Monetary: How much do they spend?**
 > - the amount of money a customer has spent within that same time frame
 > - A customer who makes larger purchases is more likely to return than a customer who spends less
+
+
+### Benefits of RFM Analysis
+Conducting an RFM analysis on your customer data and sending personalized offers has benefits for your eCommerce store
+
+> - **Personalization:** By creating customer segments, you can create personalized offers
+> - **Improve Conversion Rates:** Personalized offers will yield higher conversion rates
+> - **Increase revenue and profits**
