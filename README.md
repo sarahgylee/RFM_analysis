@@ -1,7 +1,6 @@
 # Customer Segmentation Analysis of UK_Retail Sales Data
 
-Conducted customer segmentation analysis based on Recency, Frequency and Monetary (RFM) value\
-RFM is a methosd used for analyzing customer value
+Conducted customer segmentation analysis based on Recency, Frequency and Monetary (RFM) value
 
 ### What is Churn Rate?
 - Churn Rate: the percentage of people who abandon your service over time
@@ -9,7 +8,7 @@ RFM is a methosd used for analyzing customer value
 - Average Customer Lifespan = 1/(churn rate)
 
 
-
+### RFM is a methosd used for analyzing customer value
 **1. Recency: How recently did the customer purchase?**
   - The last time that a customer made a purchase
   - A customer who has made a purchase recently is more likely to make a repeat purchase than a customer who hasn’t made a purchase in a long time
