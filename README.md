@@ -6,7 +6,9 @@
 - **Average Customer Lifespan** = 1 / (churn rate)
 
 
-## 2. RFM is a method used for analyzing customer value
+## 2. What is RFM Analysis?
+RFM Analysis is a method used for analyzing customer value
+
 #### 1. Recency: How recently did the customer purchase?
 > - The last time that a customer made a purchase
 > - A customer who has made a purchase recently is more likely to make a repeat purchase than a customer who hasn’t made a purchase in a long time
