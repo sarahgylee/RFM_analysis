@@ -23,8 +23,8 @@
 ### Benefits of RFM Analysis
 Conducting an RFM analysis on your customer data and sending personalized offers has benefits for your eCommerce store
 
-**1. Personalization:** 
+**1. Personalization:**\
 By creating customer segments, you can create personalized offers\
-**2. Improve Conversion Rates:** 
+**2. Improve Conversion Rates:**\
 Personalized offers will yield higher conversion rates\
 **3. Increase revenue and profits**
