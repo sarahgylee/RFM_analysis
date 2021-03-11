@@ -1,6 +1,6 @@
 # Customer Segmentation Analysis of UK_Retail Sales Data
 
-### Conducted customer segmentation analysis based on Recency, Frequency and Monetary (RFM) value
+**Conducted customer segmentation analysis based on Recency, Frequency and Monetary (RFM) value**
 
 **What is Churn Rate?**
 
