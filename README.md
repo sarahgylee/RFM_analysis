@@ -11,9 +11,11 @@
 - The last time that a customer made a purchase
 - A customer who has made a purchase recently is more likely to make a repeat purchase than a customer who hasn’t made a purchase in a long time
 
+
 **2. Frequency: How often do they purchase?**
 - How many times a customer has made a purchase within a given time frame
 - A customer who makes purchases often is more likely to continue to come back than a customer who rarely makes purchases
+
 
 **3. Monetary: How much do they spend?**
 - The amount of money a customer has spent within that same time frame
