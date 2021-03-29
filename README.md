@@ -1,8 +1,8 @@
 # Customer Segmentation Analysis of UK_Retail Sales Data
 
 ## 1. What is Churn Rate?
-- **Churn Rate:** the percentage of people who abandon your service over time\
-- **Churn Rate** = (Number of churns during period) / (Number of customers at beginning of period)\
+- **Churn Rate:** the percentage of people who abandon your service over time
+- **Churn Rate** = (Number of churns during period) / (Number of customers at beginning of period)
 - **Average Customer Lifespan** = 1 / (churn rate)
 
 
